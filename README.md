@@ -40,7 +40,8 @@ Two models were tested:
 
 The **CountVectorizer + Naive Bayes** model was chosen for the Streamlit web app due to its high ability to correctly identify viral tweets.
 
----
+---<img width="1887" height="838" alt="streamlit" src="https://github.com/user-attachments/assets/01384445-46a6-4642-8578-d0d1db956aca" />
+
 
 ##  How to Run the Web App
 
